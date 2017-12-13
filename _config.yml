@@ -1,0 +1,20 @@
+# main text of home
+name: Caitlin Garlow
+bio: Lives in sf with steve and loki
+
+# twitter summary info
+description: Hi my name is Caitlin
+
+picture: assets/images/picture.jpg
+
+url: http://kr4ng.github.io
+# your url: http://USERNAME.github.io
+
+# if you don't have any of social below, comment the line
+facebook: garlowc
+twitter: garlowc
+
+gems:
+  - jekyll-seo-tag
+
+exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
